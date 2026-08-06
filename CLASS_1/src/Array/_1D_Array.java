@@ -56,6 +56,7 @@ public class _1D_Array {
         //sort
 
         Arrays.sort(marks);
+        System.out.println("Sorting Marks ");
         System.out.println(Arrays.toString((marks)));
 
         //search
