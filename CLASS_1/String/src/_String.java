@@ -57,5 +57,9 @@ public class _String {
 
 
         System.out.println(s14.substring(1,3));
+        StringBuilder s20 = new StringBuilder("hello");
+
+        s20.setCharAt(3,'Z');
+        System.out.println(s20);
     }
 }
